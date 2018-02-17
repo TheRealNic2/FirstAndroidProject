@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="btnVisualizza">Visualizza</string>
+    <string name="etMessagge">Messaggio</string>
+    <string name="tvMessagge">Inserisci messaggio:</string>
+    <string name="swActivate">Attivami</string>
+    <string name="vActivate1">Servizio Attivato</string>
+    <string name="vActivate2">Servizio Disattivato</string>
+    <string name="vActivate3">Devi attivare il servizio!!</string>
+</resources>

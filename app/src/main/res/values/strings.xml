@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="tvMessagge">Write a message:</string>
+    <string name="etMessagge">Message</string>
+    <string name="btnVisualizza">View</string>
+    <string name="swActivate">Activate me</string>
+    <string name="vActivate1">Service Enabled</string>
+    <string name="vActivate2">Service Disabled</string>
+    <string name="vActivate3">You must activate the service!!</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
